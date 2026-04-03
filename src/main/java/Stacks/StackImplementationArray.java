@@ -1,7 +1,5 @@
 package Stacks;
 
-import java.util.Stack;
-
 public class StackImplementationArray {
         // ── Internal array and tracking variables ──────────────────────────────
         private int[] data;
